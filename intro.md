@@ -1,5 +1,4 @@
 ---
-title: Basic Javascript
 author: Michele Giarletta
 date: 2021-06-01
 description: Sum-UP FCC-Javascript Basis
