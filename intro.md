@@ -9,7 +9,7 @@ description: Sum-UP FCC-Javascript Basis
 ## Index
 
 - [Commenti](#commenti)
-- [Datatypes:](#datatypes)
+- [Datatypes](#datatypes)
 - [Escaping](#escaping)
 - [Manipolazione stringhe](#manipolazione-stringhe)
   - [Concatenazione (con variabili, etc..):](#concatenazione-con-variabili-etc)
@@ -37,7 +37,7 @@ description: Sum-UP FCC-Javascript Basis
 // i commenti sono equivalenti al C 
 /* Im a multi-line comment vez */
 ```
-# Datatypes:
+# Datatypes
 ```
  undefined 
  null
